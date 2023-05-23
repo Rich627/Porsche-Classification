@@ -1,8 +1,6 @@
 
 # Porsche Car Classification Model
 
-![Porsche Logo](https://example.com/porsche-logo.png)
-
 Welcome to my Porsche Car Classification project! In this project, I have created a classification model that can accurately classify different Porsche car models. I trained this model using machine learning techniques, specifically deep learning algorithms, to analyze and classify images of various Porsche car models.
 
 ## Project Overview
